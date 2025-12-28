@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>→ Flutter mobile & web applications at **Techtronix Corp Ltd**<br><br>👯 I’m looking to collaborate on  <br>→ Flutter projects, UI/UX improvements, and scalable app architectures<br><br>🤝 I’m looking for help with  <br>→ Advanced Flutter web optimizations & performance tuning<br><br>🌱 I’m currently learning  <br>→ Clean Architecture, Flutter Web best practices, and advanced state management<br><br>💬 Ask me about  <br>→ Flutter, Dart, responsive UI, Firebase, REST APIs<br><br>⚡ Fun fact  <br>→ I enjoy turning complex designs into smooth Flutter experiences 🚀<br>
+🔭 I’m currently working on  <br>→ Flutter mobile applications at **Techtronix Corp Ltd**<br><br>👯 I’m looking to collaborate on  <br>→ Flutter projects, UI/UX improvements, and scalable app architectures<br><br>🤝 I’m looking for help with  <br>→ Advanced Flutter web optimizations & performance tuning<br><br>🌱 I’m currently learning  <br>→ Clean Architecture, Flutter Web best practices, and advanced state management<br><br>💬 Ask me about  <br>→ Flutter, Dart, responsive UI, Firebase, REST APIs<br><br>⚡ Fun fact  <br>→ I enjoy turning complex designs into smooth Flutter experiences 🚀<br>
 
 
 ## 🌐 Socials:
